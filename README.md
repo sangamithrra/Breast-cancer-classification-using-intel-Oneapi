@@ -45,6 +45,10 @@ The oneAPI reduced the overall runtime and GPU usage significantly compared to n
 
 ![featured image](https://user-images.githubusercontent.com/113981140/235285247-59872c4d-2f22-4d73-860c-93726b3dbf6b.png)
 
+Web app implementation vedio:
+
+
+
 
 
 
