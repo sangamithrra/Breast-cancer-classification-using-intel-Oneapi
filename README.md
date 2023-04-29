@@ -31,7 +31,7 @@ Intel DevCloud
 Link: https://jupyter.oneapi.devcloud.intel.com/user/u190404/doc/tree/Breast%20cancer%20classification.ipynb
 
 Results and discussion
-
+The accuracy using KNeighborsClassifier is 95.104895
 The oneAPI reduced the overall runtime and GPU usage significantly compared to normal platforms. All the models haven been optimised and execution time have been reduced by using Intel oneAPI.
 ![homepage](https://user-images.githubusercontent.com/113981140/235285238-921c7030-9916-47c0-bd43-2dad3b0ccd79.png)
 ![featured image](https://user-images.githubusercontent.com/113981140/235285247-59872c4d-2f22-4d73-860c-93726b3dbf6b.png)
