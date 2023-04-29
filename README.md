@@ -37,7 +37,8 @@ Link: https://jupyter.oneapi.devcloud.intel.com/user/u190404/doc/tree/Breast%20c
 
 Results and discussion
 
-The accuracy using KNeighborsClassifier is 95.104895
+The accuracy using KNeighborsClassifier is 95.104895.
+
 The oneAPI reduced the overall runtime and GPU usage significantly compared to normal platforms. All the models haven been optimised and execution time have been reduced by using Intel oneAPI.
 
 ![homepage](https://user-images.githubusercontent.com/113981140/235285238-921c7030-9916-47c0-bd43-2dad3b0ccd79.png)
