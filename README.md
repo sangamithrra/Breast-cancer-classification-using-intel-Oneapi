@@ -1,4 +1,4 @@
-# Breast-cancer-classification-using-intel-One-API
+# Breast-cancer-classification-using-Intel-One-API
 
 The objective of this project is to develop a classification model using KNN and logistic regression algorithms to classify tumor cells as malignant or benign based on clinical and pathological features. The early detection and diagnosis of breast cancer are essential for effective treatment and survival. Machine learning algorithms, such as k-nearest neighbors (KNN) and logistic regression, can be used to develop accurate classification models to aid in the diagnosis of breast cancer The model aims to achieve high accuracy, sensitivity, and specificity to assist healthcare providers in making informed decisions about patient care.
 
@@ -31,6 +31,9 @@ The Intel® AI Analytics Toolkit (AI Kit) helps to resolve this problem by provi
 Scikit-learn (sklearn) is a popular Python library for machine learning, but it may not be optimized for Intel hardware by default.By integrating oneAPI into scikit-learn, the performance of some of its algorithms, such as linear regression, can be significantly improved.integrating oneAPI into scikit-learn can improve its performance on Intel hardware by taking advantage of highly optimized libraries and routines for mathematical computations and data analysis.
 
 ![image](https://user-images.githubusercontent.com/113981140/235285147-d3699f6c-4e3d-4017-8711-78237b327eab.png)
+
+![image](https://user-images.githubusercontent.com/113981140/235293217-2bcfb74d-8aa7-404c-815d-ffee4a114fcb.png)
+
 
 Intel DevCloud
 Link: https://jupyter.oneapi.devcloud.intel.com/user/u190404/doc/tree/Breast%20cancer%20classification.ipynb
