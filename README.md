@@ -1,4 +1,4 @@
-# Breast-cancer-classification-using-intel-Oneapi
+# Breast-cancer-classification-using-intel-One-API
 
 The objective of this project is to develop a classification model using KNN and logistic regression algorithms to classify tumor cells as malignant or benign based on clinical and pathological features. The early detection and diagnosis of breast cancer are essential for effective treatment and survival. Machine learning algorithms, such as k-nearest neighbors (KNN) and logistic regression, can be used to develop accurate classification models to aid in the diagnosis of breast cancer The model aims to achieve high accuracy, sensitivity, and specificity to assist healthcare providers in making informed decisions about patient care.
 
