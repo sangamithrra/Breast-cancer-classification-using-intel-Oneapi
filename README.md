@@ -39,7 +39,7 @@ Results and discussion
 
 The accuracy using KNeighborsClassifier is 95.104895.
 
-The oneAPI reduced the overall runtime and GPU usage significantly compared to normal platforms. All the models haven been optimised and execution time have been reduced by using Intel oneAPI.
+The oneAPI reduced the overall runtime and GPU usage significantly compared to normal platforms. All the models haven been optimised and execution time have been reduced by using Intel oneAPI.The execution time was reduced 26 times compared to other platform.
 
 ![homepage](https://user-images.githubusercontent.com/113981140/235285238-921c7030-9916-47c0-bd43-2dad3b0ccd79.png)
 
@@ -48,6 +48,7 @@ The oneAPI reduced the overall runtime and GPU usage significantly compared to n
 Web app implementation vedio:
 
 https://github.com/sangamithrra/Breast-cancer-classification-using-intel-Oneapi/blob/main/Cancer%20Tumor%20Classification%20-%20Google%20Chrome%202023-04-29%2011-39-38.mp4
+
 
 
 
